@@ -2,7 +2,7 @@
 
 A dedicated **Web Developer** & **Designer** from **Bangladesh** 💻 🎨.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=JubayerAlMahmud&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=jubayer8221&color=blue)  
 
 ## 🌍 **About Me**  
 - Passionate about **exploring cutting-edge technologies** and **building innovative projects**.  
@@ -10,8 +10,6 @@ A dedicated **Web Developer** & **Designer** from **Bangladesh** 💻 🎨.
 - Experienced in **Full-Stack Development** using **Node.js**, **MongoDB**, and **Redux**.  
 - Familiar with modern CSS frameworks like **TailwindCSS** and authentication strategies using **JWT**.  
 - Always striving to create **intuitive user interfaces** and seamless **user experiences**.
-- 
-- 🏆 Fun Fact: **Bananas are berries, but strawberries aren’t!**  
 
 ## 💬 **Ask me about:**  
 - **Frontend Development** | **Next.js** | **ReactJS** | **UI/UX Design**  
