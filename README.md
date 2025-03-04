@@ -25,15 +25,6 @@ A dedicated **Web Developer** & **Designer** from **Bangladesh** 💻 🎨.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <!-- Add other tech stack logos as you see fit -->
 
-## 🌱 Learning
-- 🔭 I'm currently diving into the world of Python, next.js to broaden my skill set.
-
-## 🤝 Let's Collaborate!
-I'm open to collaboration on projects related to **AI**, **Machine Learning**, **React**, **Next.js**, **Node.js**, and more. If you have an exciting project or idea, feel free to reach out!
- 
-
----
-
 ## 📊 **GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayer8221&show_icons=true&theme=dark)  
 
@@ -44,6 +35,10 @@ I'm open to collaboration on projects related to **AI**, **Machine Learning**, *
 > Dev 1 - Now we have two problems."  
 
 ---
+## 🤝 Let's Collaborate!
+I'm open to collaboration on projects related to **AI**, **Machine Learning**, **React**, **Next.js**, **Node.js**, and more. Feel free to reach out if you have an exciting project or idea!
+---
+
 
 ## 📫 How to Reach Me
 <p align="center">
