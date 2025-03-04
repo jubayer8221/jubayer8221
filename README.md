@@ -35,7 +35,7 @@ I'm open to collaboration on projects related to **AI**, **Machine Learning**, *
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JubayerAlMahmud&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayer8221&show_icons=true&theme=dark)  
 
 ---
 
