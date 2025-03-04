@@ -34,13 +34,13 @@ A dedicated **Web Developer** & **Designer** from **Bangladesh** 💻 🎨.
 > "Dev 1 - We have a problem. Dev 2 - Let's use RegEx!  
 > Dev 1 - Now we have two problems."  
 
----
+
 ## 🤝 Let's Collaborate!
 I'm open to collaboration on projects related to **AI**, **Machine Learning**, **React**, **Next.js**, **Node.js**, and more. Feel free to reach out if you have an exciting project or idea!
+
 ---
-
-
 ## 📫 How to Reach Me
+---
 <p align="center">
   <a href="mailto:jubayer8221@gmail.com">
     <img src="https://img.shields.io/badge/Email--red?style=for-the-badge&logo=gmail" alt="Gmail" />
