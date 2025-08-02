@@ -3,7 +3,6 @@
 A dedicated **Web Developer** & **Designer** from **Bangladesh** 💻 🎨.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jubayer8221&color=blue)  
-![Portfolio](https://jubayeralmahmud.vercel.app/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://jubayeralmahmud.vercel.app/)
 
 
